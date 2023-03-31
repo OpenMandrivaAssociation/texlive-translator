@@ -1,6 +1,6 @@
 Name:		texlive-translator
 Version:	59412
-Release:	1
+Release:	2
 Summary:	Easy translation of strings in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/translator
