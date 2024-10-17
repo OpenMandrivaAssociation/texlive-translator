@@ -3,7 +3,7 @@ Version:	59412
 Release:	2
 Summary:	Easy translation of strings in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/translator
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/translator
 License:	lppl gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translator.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translator.doc.r%{version}.tar.xz
